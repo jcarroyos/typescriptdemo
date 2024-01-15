@@ -27,3 +27,5 @@ function swapNumbers(num1: number, num2: number): [number, number] {
 swapNumbs = swapNumbers(10, 20);
 swapNumbs[0];
 console.log(swapNumbs[0]);
+
+let department: any = "Software";
